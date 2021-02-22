@@ -1,4 +1,25 @@
 body {
-    background-color: bisque;
+    background-color: white;
     font-family: Arial, serif;
+}
+
+.Main {
+    size: A4;
+    width: 90%;
+    height: auto;
+    bottom: 0;
+    top: 0;
+    left: 5%;
+
+    background-color: bisque;
+    font-family: "Nanum Gothic", serif;
+    position: absolute;
+}
+
+.Video_Player {
+    background-color: black;
+}
+
+.Description {
+    color: black;
 }
